@@ -77,6 +77,7 @@ brew install jq
 - [ ] [Zoom](https://zoom.us/download)
 - [ ] [iterm](https://iterm2.com/)
 - [ ] [docker for desktop](https://docs.docker.com/docker-for-mac/install/)
+- [ ] [Postman](https://www.postman.com/downloads/)
 - [ ] flycut
 ```
 brew install --cask flycut
