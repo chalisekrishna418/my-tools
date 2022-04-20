@@ -78,6 +78,8 @@ brew install jq
 * [docker for desktop](https://docs.docker.com/docker-for-mac/install/)
 * [Postman](https://www.postman.com/downloads/)
 * flycut
+* [Lens](https://k8slens.dev/)
+* [K9s](https://k9scli.io/)
 ```
 brew install --cask flycut
 ```
